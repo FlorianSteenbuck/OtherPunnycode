@@ -1,2 +1,2 @@
-# OtherPunnycode
-Just another punnycode implementation for java
+# OtherPunycode
+Just another punycode implementation for java
